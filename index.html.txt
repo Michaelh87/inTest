@@ -1,3 +1,5 @@
 I am typing for a testing
 making a merg conflict
-test
+merg testing
+somthing
+
